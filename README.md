@@ -9,4 +9,4 @@
 💬 My personal Telegram: [https://t.me/@jzondaking](https://t.me/@jzondaking) (If you have any issue just PM to me)
 
 
-⚠️ Honestly, I made this mostly for Vietnamese people. There's no English translation on the website. So, if you like my project, please hit "Star" it and continue to use it; then I will consider creating an English translation for international use.
+⚠️ Honestly, I made this mostly for Vietnamese people. There's no English translation on the website. So, if you like my project, please hit "Star" and continue to use it; then I will consider creating an English translation for international use.
