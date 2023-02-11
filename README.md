@@ -1,6 +1,6 @@
 # GetLinkMuseScore.Com - Download Musescore's Scores FOR FREE (NO INSTALLATION REQUIRED)
 
-> You don't have PRO account but want to download your favorite scores? No worries, GetLinkMuseScore.Com will help you with this. Just enter your score url and click "GET LINK". Bumpp! You will recieve a zip file with original full format exported.
+> You don't have a PRO account, but you'd like to download your favourite scores anyway. Don't worry; GetLinkMuseScore.Com will assist you. Just enter your score URL and click "GET LINK." Bumpp! You will receive a zip file with the original full-format export.
 
 🌐 Website: [https://getlinkmusescore.com](https://getlinkmusescore.com)
 
